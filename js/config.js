@@ -22,8 +22,8 @@ function getResourcePath(relativePath) {
         return relativePath;
     }
 
-    // ../ 제거하고 정리
-    let cleanPath = relativePath.replace(/^(\.\.\/)+/, '');
+    // ../ 또는 ./ 제거하고 정리
+    let cleanPath = relativePath.replace(/^(\.\.\/)+/, '').replace(/^\.\//, '');
 
     // / 로 시작하지 않으면 추가
     if (!cleanPath.startsWith('/')) {
@@ -32,23 +32,6 @@ function getResourcePath(relativePath) {
 
     return `${BASE_PATH}${cleanPath}`;
 }
-
-// @font-face 동적 생성 (CDN 사용)
-function createFontFace() {
-    const style = document.createElement('style');
-    style.textContent = `
-        @font-face {
-            font-family: 'GowoonDodum';
-            src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunDodum-Regular.woff') format('woff');
-            font-weight: normal;
-            font-display: swap;
-        }
-    `;
-    document.head.insertBefore(style, document.head.firstChild);
-}
-
-// 즉시 실행
-createFontFace();
 
 // Export for use in other scripts
 window.APP_CONFIG = {
