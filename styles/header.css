@@ -1,12 +1,6 @@
 /*header and navigation styles*/
 
-/* Header Component - Font Definitions */
-@font-face {
-    font-family: 'Cafe24SsurroundAir';
-    src: url('../fonts/Cafe24SsurroundAir-v1.1.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-}
+/* @font-face는 theme.css에서 로드 */
 
 .ko-title {
     font-family: var(--font-ko-main);

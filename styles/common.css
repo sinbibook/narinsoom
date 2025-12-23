@@ -1,5 +1,23 @@
 /* Template Dog Friendly Lodge - Common Styles */
 
+/* CDN Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Font Faces - Local Fonts */
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-display: swap;
+}
+
 :root {
     --brand-color-primary: var(--color-secondary);
 }
@@ -15,59 +33,9 @@ html, body {
     box-sizing: border-box;
 }
 
-/* 폰트 페이스 정의 */
-@font-face {
-    font-family: 'Lato';
-    src: url('../fonts/Lato-Regular.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lato';
-    src: url('../fonts/Lato-Bold.ttf') format('truetype');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-Regular.otf') format('opentype');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('../fonts/Pretendard-Bold.otf') format('opentype');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Miamo';
-    src: url('../fonts/Miamo Regular.otf') format('opentype');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Miamo';
-    src: url('../fonts/Miamo SemiBold.otf') format('opentype');
-    font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Cafe24SsurroundAir';
-    src: url('../fonts/Cafe24SsurroundAir-v1.1.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-}
-
-/* 기본 폰트 설정 */
+/* 기본 폰트 설정 - @font-face는 theme.css에서 로드 */
 * {
-    font-family: 'Lato', 'Pretendard', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 /* data-property-name 요소 폰트 통일 */
@@ -147,7 +115,7 @@ html, body {
 
 /* UI 요소 폰트 (헤더, 푸터, 버튼) */
 .ui-font {
-    font-family: 'Pretendard', sans-serif;
+    font-family: var(--font-ko-sub);
     font-weight: 400;
 }
 

@@ -1,7 +1,30 @@
+/* Font Faces - Local Fonts */
+@font-face {
+    font-family: 'Cafe24SsurroundAir';
+    src: url('../fonts/Cafe24SsurroundAir-v1.1.ttf') format('truetype');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Miamo';
+    src: url('../fonts/Miamo Regular.otf') format('opentype');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Miamo';
+    src: url('../fonts/Miamo SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-display: swap;
+}
+
+/* CSS Variables */
 :root {
-    --font-ko-main: 'Cafe24SsurroundAir', 'Pretendard', sans-serif;
-    --font-ko-sub: 'Cafe24SsurroundAir', 'Pretendard', sans-serif;
-    --font-en-main: 'Miamo', 'Lato', sans-serif;
+    --font-ko-main: 'Cafe24SsurroundAir', sans-serif;
+    --font-ko-sub: 'Cafe24SsurroundAir', sans-serif;
+    --font-en-main: 'Miamo', sans-serif;
     --color-primary: #f7f0e5;
     --color-secondary: #605347;
 }
