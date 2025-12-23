@@ -215,9 +215,9 @@ class PreviewHandler {
 
     getDefaultFonts() {
         return {
-            koMain: "'Cafe24SsurroundAir', 'Pretendard', sans-serif",
-            koSub: "'Cafe24SsurroundAir', 'Pretendard', sans-serif",
-            enMain: "'Miamo', 'Lato', sans-serif"
+            koMain: "'Cafe24SsurroundAir', sans-serif",
+            koSub: "'Cafe24SsurroundAir', sans-serif",
+            enMain: "'Miamo', sans-serif"
         };
     }
 
