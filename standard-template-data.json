@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2025-12-26T01:53:19.394Z",
+    "version": "1.10.0",
+    "generatedAt": "2025-12-26T08:17:20.913Z",
     "templateType": "full_banner_slider",
     "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "homepageId": "cf213590-d77d-4872-bd32-70a339225841"
@@ -1832,6 +1832,22 @@
               }
             }
           ]
+        }
+      },
+      "theme": {
+        "font": {
+          "koSub": null,
+          "enMain": null,
+          "koMain": {
+            "cdn": null,
+            "key": "gyeonggimillenniumbackground",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
+            "family": "GyeonggiMillenniumBackground"
+          }
+        },
+        "color": {
+          "primary": "#e8e5e1",
+          "secondary": "#635955"
         }
       }
     }
