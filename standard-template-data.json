@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-03-27T07:11:52.886Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-04-14T02:35:13.012Z",
     "templateType": "full_banner_slider",
     "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "homepageId": "cf213590-d77d-4872-bd32-70a339225841"
@@ -667,18 +667,35 @@
   "rooms": [
     {
       "id": "4c582cd9-e286-420f-a915-d0ae98be31b1",
+      "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
+      "propertyName": "양평 나린숨 독채펜션",
       "name": "1호실(단체/애견동반/독채)",
+      "nameEn": "Room 1 (Group/Pet-Friendly/Private)",
       "description": "",
       "roomInfo": "독채복층형 : \n- 1층 : 거실+주방+온돌룸+화장실1+개별테라스\n- 2층 : 침대룸A+침대룸B+화장실1\n\n[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생\n- 1인 20,000원\n\n[애견동반]\n1호실 객실만 애견동반 가능\n- 추가비용 : 1마리당 20,000원\n- 15kg 이상 대형견도 입실 가능",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생 \n- 1인 20,000원",
       "group": null,
       "size": 1,
+      "sizePyeong": 0.3,
       "baseOccupancy": 4,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 3,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드",
@@ -702,6 +719,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "a08d30b4-bf76-45f7-82e6-880e42a10aa1",
       "images": [
         {
           "thumbnail": [
@@ -845,22 +863,43 @@
           ]
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2025-12-11T07:28:31.227Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "03de7e00-bc9f-431f-a43e-c5b807205544",
+      "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
+      "propertyName": "양평 나린숨 독채펜션",
       "name": "2호실(히노끼탕/독채)",
+      "nameEn": "Room 2 (Hinoki Bath / Private House)",
       "description": "히노끼탕/독채",
       "roomInfo": "독채복층형 : \n- 1층 : 거실+주방+화장실+히노끼탕+개별테라스\n- 2층 : 침대룸1\n\n[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생\n- 1인 20,000원",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생 \n- 1인 20,000원",
       "group": null,
       "size": 1,
+      "sizePyeong": 0.3,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -883,6 +922,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "a08d30b4-bf76-45f7-82e6-880e42a10aa1",
       "images": [
         {
           "thumbnail": [
@@ -1040,22 +1080,43 @@
           ]
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2025-12-11T07:28:31.003Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "c3f69ed7-8ede-49b7-8581-3cb59da0edc2",
+      "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
+      "propertyName": "양평 나린숨 독채펜션",
       "name": "3호실(히노끼탕/커플)",
+      "nameEn": "Room 3 (Hinoki Bath)",
       "description": "히노끼탕/커플",
       "roomInfo": "원룸형 : 침대룸+주방+화장실+히노끼탕+개별테라스\n\n[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생\n- 1인 20,000원",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생 \n- 1인 20,000원",
       "group": null,
       "size": 1,
+      "sizePyeong": 0.3,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1077,6 +1138,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "a08d30b4-bf76-45f7-82e6-880e42a10aa1",
       "images": [
         {
           "thumbnail": [
@@ -1199,22 +1261,43 @@
           ]
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2025-12-11T07:28:31.085Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "05380920-4d27-4ddc-88d9-2783ec36b5b0",
+      "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
+      "propertyName": "양평 나린숨 독채펜션",
       "name": "4호실(히노끼탕/커플)",
+      "nameEn": "Room 4 (Hinoki Bath)",
       "description": "히노끼탕/커플",
       "roomInfo": "원룸형 : 침대룸+주방+화장실+히노끼탕+개별테라스\n\n[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생\n- 1인 20,000원",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생 \n- 1인 20,000원",
       "group": null,
       "size": 1,
+      "sizePyeong": 0.3,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1236,6 +1319,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "a08d30b4-bf76-45f7-82e6-880e42a10aa1",
       "images": [
         {
           "thumbnail": [
@@ -1358,22 +1442,43 @@
           ]
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2025-12-11T07:28:31.164Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "bd4d542a-6a27-48a5-8c75-c0e77b31e476",
+      "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
+      "propertyName": "양평 나린숨 독채펜션",
       "name": "별채(PC방/단체/독채)",
+      "nameEn": "Annex (PC Room/Group/Private House)",
       "description": "PC방/노래방/빔프로젝터/단체/독채",
       "roomInfo": "독채복층형 : \n1층 : 거실+주방+화장실+PC룸+개별테라스\n2층 : 온돌룸(빔프로젝터+이불세트)\n\n[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생\n- 1인 20,000원",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n기준인원 초과 시 인 당 추가요금 발생 \n- 1인 20,000원",
       "group": null,
       "size": 1,
+      "sizePyeong": 0.3,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "바닥침구",
@@ -1398,6 +1503,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "a08d30b4-bf76-45f7-82e6-880e42a10aa1",
       "images": [
         {
           "thumbnail": [
@@ -1569,7 +1675,11 @@
           ]
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2025-12-11T07:28:31.103Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     }
   ],
   "homepage": {
@@ -1672,7 +1782,9 @@
                     "isSelected": false
                   }
                 ],
-                "description": "쉼과 즐거움이 공존하는 곳"
+                "description": "쉼과 즐거움이 공존하는 곳",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": "웃음이 머무는 곳,",
@@ -1685,16 +1797,22 @@
                     "isSelected": true
                   }
                 ],
-                "description": "양평 나린숨 독채펜션"
+                "description": "양평 나린숨 독채펜션",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "나린숨 미리보기",
                 "images": [],
-                "description": "양평 나린숨은 이런 곳이에요 :)"
+                "description": "양평 나린숨은 이런 곳이에요 :)",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
@@ -1721,7 +1839,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": ""
+                "description": "",
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -1908,9 +2028,25 @@
             "title": "",
             "images": [
               {
+                "id": "1de49282-fcfa-461a-90c3-d99b554d6cd7",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/popup/1776134079516-ziw79ot2yoo.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "0ec27f7e-4131-49c5-a1b3-324f14692d24"
+              },
+              {
                 "id": "7c66cda5-af74-4982-b7ac-bf1c12bdb0b0",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/popup/1768957196993-bm26rkhi76j.png",
-                "sortOrder": 0,
+                "sortOrder": 1,
+                "description": "",
+                "isSelected": false,
+                "blockId": "0ec27f7e-4131-49c5-a1b3-324f14692d24"
+              },
+              {
+                "id": "02a1b30a-27ea-4883-8b7d-9ef0400dc95f",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/popup/1776134107968-u4dqvgewpkm.png",
+                "sortOrder": 2,
                 "description": "",
                 "isSelected": true,
                 "blockId": "0ec27f7e-4131-49c5-a1b3-324f14692d24"
@@ -1918,9 +2054,9 @@
             ],
             "slider": false,
             "enabled": true,
-            "endDate": "2026-01-31",
+            "endDate": null,
             "sortOrder": 0,
-            "startDate": "2026-01-14",
+            "startDate": null,
             "description": ""
           }
         ]
@@ -2932,6 +3068,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "cf213590-d77d-4872-bd32-70a339225841"
   }
 }
