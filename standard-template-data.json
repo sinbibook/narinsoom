@@ -1,17 +1,18 @@
 {
   "metadata": {
-    "version": "1.26.0",
-    "generatedAt": "2026-05-18T05:48:32.215165379Z",
-    "templateType": "full_banner_slider",
+    "version": "1.27.0",
+    "generatedAt": "2026-06-04T08:13:02.540864188Z",
+    "templateType": "full_banner_conveyer",
     "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "homepageId": "cf213590-d77d-4872-bd32-70a339225841"
   },
   "property": {
     "id": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "name": "양평 나린숨 독채펜션",
+    "nameEn": "Yangpyeong Narinsoom Private Villa",
     "description": "",
     "subtitle": "즐길거리 가득한 양평 나린숨",
-    "address": "경기도 양평군 용문면 용문산로 340-21",
+    "address": "경기 양평군 용문면 용문산로 340-21",
     "latitude": 37.5243310614829,
     "longitude": 127.60386016267,
     "contactPhone": "010-9455-9321",
@@ -23,6 +24,9 @@
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "경기도",
     "city": "양평군",
+    "domain": "narinsoom.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/2086728947",
+    "ybsId": "79088",
     "amenities": [
       "WiFi",
       "주차장"
@@ -725,11 +729,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Yangpyeong Narinsoom Private Villa",
-    "domain": "narinsoom.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/2086728947",
-    "ybsId": "79088"
+    ]
   },
   "rooms": [
     {
@@ -1805,8 +1805,9 @@
     }
   ],
   "homepage": {
+    "id": "cf213590-d77d-4872-bd32-70a339225841",
     "domain": "narinsoom.kr",
-    "templateType": "full_banner_slider",
+    "templateType": "full_banner_conveyer",
     "images": [
       {
         "logo": [ ]
@@ -1829,7 +1830,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "양평 나린숨 독채펜션",
                 "images": [
                   {
                     "id": "3e5460b1-29f0-40d4-bd03-e34c4db5195f",
@@ -1942,16 +1943,83 @@
               },
               "essence": {
                 "title": "나린숨 미리보기",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "41d8986e-8e2e-44d1-b034-dd5ff22eb0d0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/index_essence/1780560249244-7t03dvz03x.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "5f3aabf7-48d0-4cca-aabf-c969b0ebdc6d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/index_essence/1780560249158-gfh3hquzm5.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "f7522071-9bfe-4a4f-9749-ab2d73938b13",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/index_essence/1780560249241-e2cdmy2678.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": "양평 나린숨은 이런 곳이에요 :)"
               },
               "gallery": {
-                "title": "",
-                "images": [ ],
+                "title": "Preview",
+                "images": [
+                  {
+                    "id": "133a9629-8f68-462f-a157-2ca0eb9ccd00",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/index_gallery/1780560249151-sz7f4lhsh7.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "e3f32d55-a2de-4aca-857d-ea662e24f607",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/index_gallery/1780560249242-3afwkfoaju.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "26a3d69b-7d4a-4f88-887a-0e0edaa0a8d4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/index_gallery/1780560249153-ga8g7ttr5q.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "24487d2d-28f5-4629-a764-1aede913d446",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/index_gallery/1780560249247-po8dkw7055.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "cee95cf3-87ac-48df-b408-cb3658f98629",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/index_gallery/1780560249245-gdjj8w5an3.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " 양평 나린숨 독채펜션을 미리 만나보세요 !"
               },
               "signature": {
                 "title": "",
@@ -1992,7 +2060,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "오시는 길",
                 "images": [
                   {
                     "id": "5b76a544-b38b-4e71-9bc8-d07a3c97b7a9",
@@ -2023,7 +2091,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "adb27783-cd2e-45c6-8b84-435271562b3d",
@@ -2034,12 +2102,21 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": " "
               },
               "about": [
                 {
-                  "title": "",
-                  "images": [ ],
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "0289eefc-2eab-494d-a34b-0565e08a6adf",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1780560422062-0ertl32d65.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f785c80e-3a7e-41d6-8a6b-8efda2b476a4"
+                    }
+                  ],
                   "blockId": "f785c80e-3a7e-41d6-8a6b-8efda2b476a4",
                   "description": "자연이 가까운 양평, 계곡 바로 앞에 나린숨이 있습니다.\n물소리와 숲의 분위기 속에서 하루를 보내기 좋은 공간입니다.\n총 5개의 객실 중 3곳은 독채로 운영되며,\n커플, 단체로 머물기에도 부담 없는 구조를 갖추고 있습니다.\n\n나무 향이 은은한 개별 히노끼탕 객실과\n별도로 이용 가능한 건식 사우나에서\n여행의 피로를 가볍게 풀어보세요.\n침구는 일회용 커버를 사용해\n머무는 동안 더욱 깔끔하게 관리합니다.\n\n최대 6명까지 함께 즐길 수 있는 고사양 PC룸,\n노래방과 빔프로젝터가 갖춰진 객실까지.\n쉬는 시간과 노는 시간이 자연스럽게 이어집니다.\n대형견 동반이 가능한 독채 객실도 준비되어 있습니다.\n\n머무는 순간이 즐거운 기억으로 남는 곳.\n양평 나린숨 독채펜션입니다."
                 }
@@ -2129,11 +2206,11 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
-                    "id": "378f52ea-10d7-4b4a-8cba-8dd80cb4d7ce",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/reservation_hero/1770621446326-0thnz85ysib.jpg",
+                    "id": "b9d654fb-34a5-4eea-92c1-d0cbb5fe65fe",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/reservation_hero/1780560626789-gyv8ea7e0d.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2142,28 +2219,18 @@
                 ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [ ],
-                "description": ""
+                "description": " "
               }
             }
           ]
-        }
-      },
-      "theme": {
-        "font": {
-          "koSub": null,
-          "enMain": null,
-          "koMain": {
-            "cdn": null,
-            "key": "gyeonggimillenniumbackground",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
-            "family": "GyeonggiMillenniumBackground"
-          }
         },
-        "color": {
-          "primary": "#e8e5e1",
-          "secondary": "#635955"
+        "nearbyAttractions": {
+          "sections": [ ]
+        },
+        "layoutMap": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -2207,7 +2274,34 @@
           }
         ]
       },
+      "theme": {
+        "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "gyeonggimillenniumbackground",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
+            "family": "GyeonggiMillenniumBackground"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          }
+        },
+        "color": {
+          "primary": "#e8e5e1",
+          "secondary": "#635955"
+        }
+      },
       "property": {
+        "name": "양평 나린숨 독채펜션",
         "images": [
           {
             "id": "850b2593-0e0a-46bc-adcd-8c08bef3172c",
@@ -2336,7 +2430,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "양평 나린숨 독채펜션",
         "nameEn": "Yangpyeong Narinsoom Private Villa"
       },
       "roomtypes": [
@@ -3230,7 +3323,6 @@
           ]
         }
       ]
-    },
-    "id": "cf213590-d77d-4872-bd32-70a339225841"
+    }
   }
 }
