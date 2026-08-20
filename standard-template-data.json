@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.32.0",
-    "generatedAt": "2026-08-20T07:00:18.177173791Z",
+    "version": "1.33.0",
+    "generatedAt": "2026-08-20T07:03:25.602385625Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "homepageId": "cf213590-d77d-4872-bd32-70a339225841"
@@ -1981,8 +1981,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "01d59191-59ff-44da-b6a0-c6a93e0b56a2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_hero/1787209158462-wqqj8k4x0r.jpg",
+                    "id": "ec61097b-2820-43d1-9ba4-97d6b96c623d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_hero/1787209400314-vx4d3nsf06.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1996,8 +1996,8 @@
                   "title": " ",
                   "images": [
                     {
-                      "id": "ff9a2ef5-bce1-47ff-acff-9ce1c360827e",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1787209158461-24rcqv83ug.jpg",
+                      "id": "59ec75d8-c7a3-4fea-aaef-9a0a8a22aafc",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1787209400219-se81cicpdw.jpg",
                       "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
@@ -2011,8 +2011,8 @@
                   "title": " ",
                   "images": [
                     {
-                      "id": "24b4269a-f463-41b7-b2ae-34ff15d99e35",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1787209158460-4rh0gfho5y.jpg",
+                      "id": "b23a2b12-66f0-413d-872f-188fded22c79",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1787209400316-piesh3jdm6.jpg",
                       "sortOrder": 1,
                       "description": "",
                       "isSelected": true,
@@ -2020,6 +2020,36 @@
                     }
                   ],
                   "blockId": "68725f7f-0549-4292-a407-f58806c95c1b",
+                  "description": " "
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "a1addf9a-159d-44b2-85cd-e7c032870839",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1787209400300-73az5qwiyk.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ae2a70f5-97e0-476b-b05d-3d17d458811c"
+                    }
+                  ],
+                  "blockId": "ae2a70f5-97e0-476b-b05d-3d17d458811c",
+                  "description": " "
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "c18fee7a-b2eb-442e-9651-208c86980004",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1787209400314-n04d5nvw1f.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "802fe39b-5839-4dcf-84b4-d4cdb81a84bc"
+                    }
+                  ],
+                  "blockId": "802fe39b-5839-4dcf-84b4-d4cdb81a84bc",
                   "description": " "
                 }
               ]
