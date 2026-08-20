@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-08-20T07:29:41.676113248Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-08-20T07:30:42.028369996Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "homepageId": "cf213590-d77d-4872-bd32-70a339225841"
@@ -1909,8 +1909,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "b9d654fb-34a5-4eea-92c1-d0cbb5fe65fe",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/reservation_hero/1780560626789-gyv8ea7e0d.jpg",
+                    "id": "7178a2c4-9c84-4663-817e-ca7ea2696135",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/reservation_hero/1787211039651-c2cnoez41k.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
