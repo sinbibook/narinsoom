@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-08-20T07:03:25.602385625Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-08-20T07:04:00.353808009Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "homepageId": "cf213590-d77d-4872-bd32-70a339225841"
@@ -1950,17 +1950,9 @@
                 "title": "오시는 길",
                 "images": [
                   {
-                    "id": "5b76a544-b38b-4e71-9bc8-d07a3c97b7a9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/directions_hero/1766457356732-za1za8cqxt.jpg",
+                    "id": "52953be6-2cb7-47c0-8be5-c07782f1974b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/directions_hero/1787209438430-4i1ixm4lvv.jpg",
                     "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "72a156a1-940b-4109-a640-ad3ed8429e13",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/directions_hero/1766457356732-jllzluyz2z.jpg",
-                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
