@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.37.0",
-    "generatedAt": "2026-08-20T07:30:42.028369996Z",
+    "version": "1.38.0",
+    "generatedAt": "2026-08-20T07:31:06.597217798Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "homepageId": "cf213590-d77d-4872-bd32-70a339225841"
@@ -49,8 +49,7 @@
       "businessEmail": "taehuicho00@gmail.com",
       "businessType": "corporate",
       "businessCategory": "숙박 및 음식점업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
