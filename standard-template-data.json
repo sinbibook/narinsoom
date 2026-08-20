@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-08-20T06:56:48.856505384Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-08-20T06:59:20.891050494Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "82158bc2-2405-46d6-8113-bb3d3d5e9b42",
     "homepageId": "cf213590-d77d-4872-bd32-70a339225841"
@@ -1981,8 +1981,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "adb27783-cd2e-45c6-8b84-435271562b3d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_hero/1766457356732-8eh2rc84blk.jpg",
+                    "id": "01d59191-59ff-44da-b6a0-c6a93e0b56a2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_hero/1787209158462-wqqj8k4x0r.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1996,8 +1996,8 @@
                   "title": " ",
                   "images": [
                     {
-                      "id": "0289eefc-2eab-494d-a34b-0565e08a6adf",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1780560422062-0ertl32d65.jpg",
+                      "id": "ff9a2ef5-bce1-47ff-acff-9ce1c360827e",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1787209158461-24rcqv83ug.jpg",
                       "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
@@ -2006,6 +2006,21 @@
                   ],
                   "blockId": "f785c80e-3a7e-41d6-8a6b-8efda2b476a4",
                   "description": "자연이 가까운 양평, 계곡 바로 앞에 나린숨이 있습니다.\n물소리와 숲의 분위기 속에서 하루를 보내기 좋은 공간입니다.\n총 5개의 객실 중 3곳은 독채로 운영되며,\n커플, 단체로 머물기에도 부담 없는 구조를 갖추고 있습니다.\n\n나무 향이 은은한 개별 히노끼탕 객실과\n별도로 이용 가능한 건식 사우나에서\n여행의 피로를 가볍게 풀어보세요.\n침구는 일회용 커버를 사용해\n머무는 동안 더욱 깔끔하게 관리합니다.\n\n최대 6명까지 함께 즐길 수 있는 고사양 PC룸,\n노래방과 빔프로젝터가 갖춰진 객실까지.\n쉬는 시간과 노는 시간이 자연스럽게 이어집니다.\n대형견 동반이 가능한 독채 객실도 준비되어 있습니다.\n\n머무는 순간이 즐거운 기억으로 남는 곳.\n양평 나린숨 독채펜션입니다."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "24b4269a-f463-41b7-b2ae-34ff15d99e35",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/cf213590-d77d-4872-bd32-70a339225841/main_about/1787209158460-4rh0gfho5y.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "68725f7f-0549-4292-a407-f58806c95c1b"
+                    }
+                  ],
+                  "blockId": "68725f7f-0549-4292-a407-f58806c95c1b",
+                  "description": " "
                 }
               ]
             }
